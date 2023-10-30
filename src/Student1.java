@@ -6,7 +6,7 @@ public class Student1 {
 		int x = 10;
 		int y = 20;
 		if(x+y > 20) {    
-			System.out.println("x + y is greater than 20");    
+			System.out.println("x + y is less than 20");    
 			}    
 	}
 }
